@@ -1,2 +1,9 @@
 # Sentiment-Analysist-of-Bank-Jago-Reviews
-Project ini merupakan submission dicoding
+Project ini dibuat untuk memenuhi submission dicoding
+Menggunakan data yang diambil dari website Bank Jago sebanyak 10.000 data
+Data diambil menggunakan google play scraper dengan python
+Selanjutnya data tersebut dilabeli sebagai positif, netral, dan negatif berdasarkan fitur score
+Kemudian data diuji coba ke dalam 3 skema pengujian
+1. SVM + TF-IDF
+2. LSTM + Tokenizer
+3. Logistic Regression + TF-IDF
